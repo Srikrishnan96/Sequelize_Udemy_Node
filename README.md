@@ -8,11 +8,11 @@ npm package -- sequelize -- simplifies querying in application and connecting to
 Implemented with a single user.
 Created a database on local system from app.
 ## Tables
-User 
-Product 
-Cart 
-CartItem
-Order
+User, 
+Product, 
+Cart, 
+CartItem,
+Order and
 OrderItem
 
 Created association between the tables
